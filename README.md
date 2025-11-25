@@ -55,9 +55,10 @@ Performed using Excel Power Query:
    2. Income distribution across different education levels
 
 ## 📈 Dashboard Highlights
+![image](https://github.com/Debdatta7/Bike-Buyers-Sales/blob/main/2.JPG)
 Key Findings:
-1. Highest bike purchase rate: Age 31–45, Professionals, Married, North America region
-2. Average buyer income: ₹57,817
+1. Highest bike purchase rate: Age 31–45, Professionals, North America region
+2. Average buyer income: ₹56,290
 3. Most likely buyer profile: Professional aged 31–45, short commute (<5 miles), owns ≤1 car, lives in North America.
 
 ## ✅ Conclusion
